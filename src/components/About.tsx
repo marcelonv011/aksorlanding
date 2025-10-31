@@ -27,7 +27,7 @@ const About = () => {
                   Acadêmicos responsáveis pelo projeto:
                 </p>
                 <div className="flex flex-wrap gap-2">
-                  {["Jhonatan Oliveira", "Lilian Castanha", "Fabiano Silva", "Pedro Santos", "Matheus Coutinho", "Marcelo Villalba"].map((name) => (
+                  {["Jhonatan Oliveira", "Lilian Castanha", "Fabiano da Silva Santos", "Pedro Soares", "Matheus Coutinho", "Marcelo Villalba"].map((name) => (
                     <span key={name} className="px-3 py-1 bg-primary/10 text-foreground rounded-full text-sm font-medium">
                       {name}
                     </span>
