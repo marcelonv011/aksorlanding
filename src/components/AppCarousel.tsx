@@ -6,7 +6,7 @@ import {
   CarouselNext,
   CarouselPrevious,
   type CarouselApi,
-} from "@/components/ui/carousel";
+} from "../components/ui/carousel";
 import appScreen1 from "@/assets/app-screen-1.png";
 import appScreen2 from "@/assets/app-screen-2.png";
 import appScreen3 from "@/assets/app-screen-3.png";

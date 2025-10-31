@@ -1,5 +1,5 @@
 import { QrCode, Smartphone, Monitor, FileDown, Shield } from "lucide-react";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "../components/ui/card";
 
 const Features = () => {
   const features = [

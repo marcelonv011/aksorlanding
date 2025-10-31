@@ -1,6 +1,6 @@
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 import { ArrowRight } from "lucide-react";
-import AppCarousel from "@/components/AppCarousel";
+import AppCarousel from "../components/AppCarousel";
 
 const Hero = () => {
   const scrollToSection = (id: string) => {
